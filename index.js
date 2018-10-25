@@ -1,12 +1,12 @@
 'use strict';
-const foregroundColor = '#eff0eb';
+const foregroundColor = '#3C3B3C';
 const backgroundColor = '#282a36';
-const red = '#ff5c57';
-const green = '#5af78e';
-const yellow = '#f3f99d';
-const blue = '#57c7ff';
-const magenta = '#ff6ac1';
-const cyan = '#9aedfe';
+const red = '#FF2D55';
+const green = '#4CD964';
+const yellow = '#FFCC00';
+const blue = '#5AC8FA';
+const magenta = '#FF3B30';
+const cyan = '#007AFF';
 
 exports.decorateConfig = config => Object.assign({}, config, {
 	backgroundColor,
