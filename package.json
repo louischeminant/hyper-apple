@@ -1,20 +1,27 @@
 {
-	"name": "hyper-snazzy",
-	"version": "1.3.0",
-	"description": "Elegant Hyper theme with bright colors",
-	"license": "MIT",
-	"repository": "sindresorhus/hyper-snazzy",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
-	},
-	"files": [
-		"index.js"
-	],
-	"keywords": [
-		"hyper",
-		"hyper-theme",
-		"elegant"
-	]
+  "name": "hyper-apple",
+  "version": "1.0.0",
+  "description": "Elegant Hyper theme with apple colors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louischeminant/hyper-apple.git"
+  },
+  "author": "Louis Cheminant <louischeminant@me.com> (louischeminant.com)",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "elegant"
+  ],
+  "bugs": {
+    "url": "https://github.com/louischeminant/hyper-apple.git/issues"
+  },
+  "homepage": "https://github.com/louischeminant/hyper-apple.git#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
